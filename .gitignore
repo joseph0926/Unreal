@@ -1,0 +1,15 @@
+# UnrealEngine Generated Files
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+# Assets
+*/Content/Assets/
+
+#강의자료
+/강의자료
+
+# VS Generated Files
+*.suo
+*.db
